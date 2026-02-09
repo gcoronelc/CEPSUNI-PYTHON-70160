@@ -1,12 +1,12 @@
-![SQL SERVER INTELIGENCIA DE NEGOCIOS](https://raw.githubusercontent.com/gcoronelc/CEPSUNI-SQL4-69762/main/img/portada.png)
+![TALLER DE DE DATA SCIENCE Y FUNDAMENTOS MACHINE LEARNING CON  PYTHON](https://raw.githubusercontent.com/gcoronelc/CEPSUNI-PYTHON-70160/refs/heads/main/img/logo.png)
 
 # DATOS GENERALES
 
 ## DATOS DEL CURSO
 
 - Lugar: CEPS-UNI
-- Horario: Domingo de 15 a 21 Horas
-- Inicio: 09-NOV-2025
+- Horario: Lunes, Miercoles y Viernes de 19 - 22 Horas
+- Inicio: 09-FEB-2026
 - Duración: 24 Horas
 - Dirección: https://goo.gl/maps/PyC3Ek8MXW3bVZoC7
 - Canal Youtube: https://www.youtube.com/channel/UC7c3C0Dtr6HnSpxAAWN643A?sub_confirmation=1
@@ -15,7 +15,7 @@
 
 ## DATOS DEL DOCENTE
 
-- Docente: CORONEL CASTILLO, ERIC GUSTAVO
+- Docente: DR. CORONEL CASTILLO, ERIC GUSTAVO
 - Blog: https://gcoronelc.blogspot.com/
 - Grupo FaceBook: https://www.facebook.com/groups/desarrollasoftware/
 - GITHUB: http://gcoronelc.github.io/
