@@ -1,26 +1,40 @@
-Grupo 1
-----------------------------
+Grupo 1: Natalidad en el Perú
+-----------------------------------------
 - CCOYO MEZA RONAL
 - DAVALOS CANDIA MANUEL FERNANDO
 - ROMERO FLORES ROCIO DEL PILAR
 
-Grupo 2
-----------------------------
+Grupo 2: Análisis de Salarios
+-----------------------------------------
 - LABARTA GARCIA RAFAEL
 - MORALES ARCE SANTIAGO ALONSO
 - SOSA CASTRO ALBERT ALBERTO
 
 Grupo 3: Contaminación del aire
--------------------------------------
+-----------------------------------------
 - CRISTÓBAL ALEGRÍA BRYAN ANTHONY
 - REBATTA NAVARRO JAVIER ADRIAN
 - SAGASTEGUI ROJAS PAOLA GIOVANNA
 
-Grupo 4
-----------------------------
+Grupo 4: Deserción en el Sector Bancario
+------------------------------------------
 - APFATA AGUILAR BRANDON
 - PILLIHUAMAN REYES ALAIN DIEGO
 - RONCEROS RIVAS GUSTAVO ADOLFO
 - ZAMORA FERNÁNDEZ FRANCESCA MERCEDES
+
+
+Orden de Exposición
+--------------------------
+1.- Grupo 1
+2.- Grupo 3
+3.- Grupo 2
+4.- Grupo 4
+Expo: 20 min (Camara activa)
+Preg: 10 min
+
+
+
+
 
 
