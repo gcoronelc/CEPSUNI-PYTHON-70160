@@ -1,0 +1,42 @@
+# Configuracion de contexto
+
+# Librerias
+import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
+import seaborn as sns
+
+# Configuracion
+pd.set_option('display.max_columns', None)
+pd.set_option('display.width', None)
+pd.set_option('display.expand_frame_repr', False)
+
+# (Opcional) Configuración general de Seaborn
+# Opciones de estilo: darkgrid, whitegrid, dark, white, ticks
+sns.set_theme(style='whitegrid', palette='muted', font_scale=1.1)
+
+
+
+
+
+
+
+
+# Los DataSet
+
+# Carga de datos
+df_rrhh = pd.read_csv("rrhh.csv")
+df_ventas = pd.read_csv("ventas.csv")
+
+# Conversión de fecha (ventas)
+df_ventas["fecha"] = pd.to_datetime(df_ventas["fecha"], errors="coerce")
+
+# Revisión rápida
+print("RRHH")
+print(df_rrhh.head())
+print("Ventas")
+print(df_ventas.head())
+
+
+
+
